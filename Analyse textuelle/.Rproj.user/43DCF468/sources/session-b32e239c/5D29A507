@@ -1,0 +1,27 @@
+{
+    "id": "5D29A507",
+    "path": "~/Desktop/Analyse textuelle/R scripts/2. Top 500 mots-clés.R",
+    "project_path": "R scripts/2. Top 500 mots-clés.R",
+    "type": "r_source",
+    "hash": "1580688582",
+    "contents": "",
+    "dirty": false,
+    "created": 1688656048992.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "49,0",
+        "scrollLine": "23"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1688654255,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1688654255,
+    "read_only": false,
+    "read_only_alternatives": []
+}

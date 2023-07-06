@@ -1,0 +1,27 @@
+{
+    "id": "E1617595",
+    "path": "~/Desktop/Analyse textuelle/R scripts/3. Top syntagmes.R",
+    "project_path": "R scripts/3. Top syntagmes.R",
+    "type": "r_source",
+    "hash": "1168055723",
+    "contents": "",
+    "dirty": false,
+    "created": 1688655997891.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,0",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1688656023,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1688656023,
+    "read_only": false,
+    "read_only_alternatives": []
+}
